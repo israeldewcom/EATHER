@@ -49,7 +49,7 @@ One-Command Installation (Development)
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/aether.git
+git clone https://github.com/israeldewcom/Eather-documentation-/tree/main
 cd aether
 
 # Copy environment file
@@ -566,7 +566,7 @@ Case Study: Accounting Firm
 
 Getting Help
 
-· Documentation: docs.aether.ai
+· Documentation: https://eather-documentation.vercel.app/
 · Community: Discord
 · Issues: GitHub Issues
 · Email: israeldewa1@gmail.com
