@@ -569,9 +569,9 @@ Getting Help
 · Documentation: docs.aether.ai
 · Community: Discord
 · Issues: GitHub Issues
-· Email: support@aether.ai
-· Twitter: @aetherai
-
+· Email: israeldewa1@gmail.com
+· WhatsApp: 09161806424
+. demo:https://eather-six.vercel.app/
 Service Level Agreement (SLA)
 
 Plan Uptime Response Time Resolution Time
